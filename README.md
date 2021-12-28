@@ -1,4 +1,4 @@
-# full-stack-engineer-path-codecademy
+# Full-Stack Engineer Path (Codecademy)
 Exercícios realizados no curso "Full-Stack Engineer" do Codecademy.
 Completed activities from "Full-Stack Engineer" course from Codecademy.
 
