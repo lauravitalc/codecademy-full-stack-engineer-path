@@ -7,3 +7,5 @@ Diversas atividades realizadas de Javascript estão em outro repositório: [Ativ
 Some Javascript activities are here: [Javascript](https://github.com/lauravitalc/codecademy-javascript)
 
 ### [Javascript Syntax - Part I](https://github.com/lauravitalc/codecademy-full-stack-engineer-path/tree/main/1-javascript-challenges)
+
+### [Javascript Syntax - Part II](https://github.com/lauravitalc/codecademy-full-stack-engineer-path/tree/main/2-javascript-intermediate-challenges)
